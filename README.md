@@ -2,3 +2,5 @@
 
 
 ![Maths Logo](assets/images/logo.png)
+
+## This website built for learning purpose.
