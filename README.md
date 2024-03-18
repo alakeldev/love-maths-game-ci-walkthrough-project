@@ -3,4 +3,4 @@
 
 ![Maths Logo](assets/images/logo.png)
 
-## This website built for learning purpose.
+## This website(game) is an educational walkthrough website(game).
